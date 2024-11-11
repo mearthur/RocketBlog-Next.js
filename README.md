@@ -21,7 +21,7 @@ Este é um projeto desenvolvido com [Next.js](https://nextjs.org/), utilizando [
 Executando o Projeto em Desenvolvimento
 Inicie o servidor de desenvolvimento:
 </br>
-pnpm install
+'pnpm install'
 Para instalar todas dependencias do projeto
 </br>
 'pnpm dev'
