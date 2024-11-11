@@ -21,34 +21,23 @@ Este é um projeto desenvolvido com [Next.js](https://nextjs.org/), utilizando [
 1. Clone o repositório:
    git clone https://github.com/seu-usuario/seu-repositorio.git
 Acesse o diretório do projeto:
-
-cd seu-repositorio
+<br>
+"cd seu-repositorio"
 Instale as dependências com pnpm:
-
-pnpm install
+<br>
+"pnpm install"
 Executando o Projeto em Desenvolvimento
 Inicie o servidor de desenvolvimento:
-
+<br>
 pnpm dev
 O projeto estará acessível em http://localhost:3000.
-
+<br>
 Tailwind CSS
 Este projeto utiliza o Tailwind CSS para estilização. As configurações do Tailwind estão no arquivo tailwind.config.js. Para mais detalhes sobre o uso do Tailwind, consulte a documentação oficial.
-
+<br>
 Tipos e TypeScript
 Com TypeScript, o projeto ganha tipagem estática para melhor controle e redução de erros. As definições de tipos e interfaces estão na pasta types.
-
-Adicionando Ícones com React Icons
-Para adicionar ícones, importe-os diretamente de react-icons em seu componente:
-
-import { FaBeer } from 'react-icons/fa';
-
-const MyComponent = () => {
-  return <FaBeer />;
-};
-Build e Produção
-Para criar uma versão de produção:
-
+<br>
 pnpm build
 Depois de construído, você pode iniciar o servidor de produção com:
 
