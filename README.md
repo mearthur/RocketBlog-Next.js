@@ -20,9 +20,9 @@ Este é um projeto desenvolvido com [Next.js](https://nextjs.org/), utilizando [
 
 Executando o Projeto em Desenvolvimento
 Inicie o servidor de desenvolvimento:
-'pnpm i'
+</br>
+pnpm install
 Para instalar todas dependencias do projeto
-
+</br>
 'pnpm dev'
-
 O projeto estará acessível em http://localhost:3000.
