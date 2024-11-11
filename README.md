@@ -32,17 +32,6 @@ Inicie o servidor de desenvolvimento:
 pnpm dev
 O projeto estará acessível em http://localhost:3000.
 
-Estrutura do Projeto
-
-├── pages               # Páginas da aplicação, com roteamento automático.
-│   ├── api             # Rotas de API.
-│   └── index.tsx       # Página inicial.
-├── public              # Arquivos públicos como imagens, favicon, etc.
-├── styles              # Estilos globais e configurações do Tailwind.
-├── components          # Componentes reutilizáveis.
-├── types               # Definições de tipos e interfaces TypeScript.
-├── README.md           # Documentação do projeto.
-└── tsconfig.json       # Configurações do TypeScript.
 Tailwind CSS
 Este projeto utiliza o Tailwind CSS para estilização. As configurações do Tailwind estão no arquivo tailwind.config.js. Para mais detalhes sobre o uso do Tailwind, consulte a documentação oficial.
 
